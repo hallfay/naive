@@ -105,6 +105,8 @@ rm -rf /naive
 
 ## Performance Optimization
 
+- https://github.com/klzgrad/naiveproxy/wiki/Performance-Tuning
+
 - Scheduled server restart
 
     ```bash

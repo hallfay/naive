@@ -105,6 +105,8 @@ rm -rf /naive
 
 ## 性能优化
 
+- https://github.com/klzgrad/naiveproxy/wiki/Performance-Tuning
+
 - 定时重启服务器
 
     ```bash
